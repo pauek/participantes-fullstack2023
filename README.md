@@ -14,6 +14,7 @@ Lista de participantes:
 - Arnau Merino <arnaumevi@gmail.com> ([arnaumevi](https://github.com/arnaumevi))
 - Pablo Mena <pablo.mena.rodriguez@gmail.com> ([peibm](https://github.com/peibm))
 - Mateu Miralles <mateumiralles714@gmail.com> ([mateumiralles](https://github.com/mateumiralles))
+- Rubén Montagut <ruben.pinell01@gmail.com> ([rubenmontagut](https://github.com/rubenmontagut))
 - María Celeste Ortiz Llano <maria.celeste.ortz@gmail.com> ([mceleste3](https://github.com/mceleste3))
 - Agustín Ricardo Rodríguez Mendoza <agustin890831@gmail.com> ([AgustinRicardo](https://github.com/AgustinRicardo))
 - Oriol Rocabert <oriol.rocabert.valverde@gmail.com> ([oriolrv](https://github.com/OriolRV/postgraufullstack.git))

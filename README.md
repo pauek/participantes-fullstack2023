@@ -9,6 +9,7 @@ Lista de participantes:
 - Cristian Manuel Ceballos Suta <cmceballos88@gmail.com> ([github](https://github.com/AmbroseKainGit))
 - Jose Colomer <jococi99@gmail.com> ([jcolomeer](https://github.com/jcolomeer))
 - Fabian Espinosa fabianespinosa1988@gmail.com ([FabianEspinosa](https://github.com/FabianEspinosa))
+- Javi Gauxachs <javi.gauxachs@gmail.com> ([Idyos](https://github.com/Idyos))
 - Sergi Gómez <sergi@sergigomez.com> ([sergigomezfoto](https://github.com/sergigomezfoto))
 - Maria Magallón <maria.magallon@estudiantat.upc.edu> ([MariaMagallon](https://github.com/MariaMagallon))
 - Arnau Merino <arnaumevi@gmail.com> ([arnaumevi](https://github.com/arnaumevi))

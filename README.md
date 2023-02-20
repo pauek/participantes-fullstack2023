@@ -2,7 +2,8 @@
 
 Ejercicio para confeccionar la lista de participantes colaborativamente.
 
-- Kegan Akinsanmi <kegan.michael.akinsanmi@estudiantat.upc.edu> [KeganAk]
+- Kegan Akinsanmi <kegan.michael.akinsanmi@estudiantat.upc.edu> ([KeganAk](https://github.com/KeganAk)
+- Alejandro Alarcon <alejandro.alarcon.cano@gmail.com> ([alejandroac6](https://github.com/alejandroac6))
 - Ivan Caminal <ivancaminal72@gmail.com> ([ivancaminal72](https://github.com/ivancaminal72))
 - Jose Colomer <jococi99@gmail.com> ([jcolomeer](https://github.com/jcolomeer))
 - Sergi Gómez <sergi@sergigomez.com> ([sergigomezfoto](https://github.com/sergigomezfoto))

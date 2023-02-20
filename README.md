@@ -14,3 +14,4 @@ Lista de participantes:
 - Pablo Mena <pablo.mena.rodriguez@gmail.com> ([peibm](https://github.com/peibm))
 - Mateu Miralles <mateumiralles714@gmail.com> ([mateumiralles](https://github.com/mateumiralles))
 - María Celeste Ortiz Llano <maria.celeste.ortz@gmail.com> ([mceleste3](https://github.com/mceleste3))
+- Agustín Ricardo Rodríguez Mendoza <agustin890831@gmail.com> ([AgustinRicardo](https://github.com/AgustinRicardo))
